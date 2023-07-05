@@ -5,20 +5,10 @@ Check out some of the cool images from text to image and image to image prompts.
 Still got a long way to learning prompts and tuning the Stable Diffusion but I had fun with this first mini project!
 
 
-<div class="image-container">
-  <img src="images/stormtropper.jpg" alt="Photo 1">
-  <img src="images/stormtropper2.jpg" alt="Photo 2">
-</div>
-<style>
-  .image-container {
-    display: flex;
-  }
+| ![Photo 1](images/stormtrooper.jpg) | ![Photo 2](images/stormtrooper2.jpg) |
+| :---: | :---: |
+| Photo 1 | Photo 2 |
 
-  .image-container img {
-    width: 50%; 
-    height: auto; 
-  }
-</style>
 
 
 ![st](images/cabinet.jpg)
