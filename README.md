@@ -5,11 +5,12 @@ Check out some of the cool images from text to image and image to image prompts.
 Still got a long way to learning prompts and tuning the Stable Diffusion but I had fun with this first mini project!
 
 ![st](images/stormtropper.jpg)
-- An underwater stormtropper
+- "a photograph of an stormtropper under the sea"
 
 ![d](images/doggo.jpg)
-- Under water dog
+- "a photograph of a dog under the sea, with scuba gear"
 
 ![m2](images/me2.jpg)
+- "potrait of a man with beard by Leonardo da Vinci"
 - Well... The generation kept my pose but my face look like Da Vinci now. 
 - Clearly have a lot to work on, regarding my prompts and tuning. 
